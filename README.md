@@ -17,7 +17,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1. Repoyu klonlayın:
 
-git clone https://github.com/mamiyaso/vue-todo-app.git
+git clone https://github.com/mamiyaso/todo-app.git
 
 2. Proje dizinine gidin:
 
